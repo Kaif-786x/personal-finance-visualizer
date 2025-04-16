@@ -1,4 +1,4 @@
-import FinanceApp from'../FinanceApp';
+import FinanceApp from '../FinanceApp';
 
 export default function Home() {
   return <FinanceApp />;
